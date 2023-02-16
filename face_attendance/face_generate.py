@@ -4,7 +4,7 @@ from imutils import face_utils
 import numpy as np
 import argparse
 import imutils
-import d
+import dlib
 import cv2
 import h5py
 import _pickle as cPickle
